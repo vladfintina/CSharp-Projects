@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Huffman_HW5": {
+      "commandName": "Project",
+      "commandLineArgs": "input.in"
+    }
+  }
+}
