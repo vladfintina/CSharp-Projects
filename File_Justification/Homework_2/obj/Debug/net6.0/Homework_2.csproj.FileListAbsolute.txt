@@ -1,0 +1,15 @@
+D:\Charles Lectures\C# Projects\Homework_2\obj\Debug\net6.0\Homework_2.csproj.AssemblyReference.cache
+D:\Charles Lectures\C# Projects\Homework_2\obj\Debug\net6.0\Homework_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charles Lectures\C# Projects\Homework_2\obj\Debug\net6.0\Homework_2.AssemblyInfoInputs.cache
+D:\Charles Lectures\C# Projects\Homework_2\obj\Debug\net6.0\Homework_2.AssemblyInfo.cs
+D:\Charles Lectures\C# Projects\Homework_2\obj\Debug\net6.0\Homework_2.csproj.CoreCompileInputs.cache
+D:\Charles Lectures\C# Projects\Homework_2\bin\Debug\net6.0\Homework_2.exe
+D:\Charles Lectures\C# Projects\Homework_2\bin\Debug\net6.0\Homework_2.deps.json
+D:\Charles Lectures\C# Projects\Homework_2\bin\Debug\net6.0\Homework_2.runtimeconfig.json
+D:\Charles Lectures\C# Projects\Homework_2\bin\Debug\net6.0\Homework_2.dll
+D:\Charles Lectures\C# Projects\Homework_2\bin\Debug\net6.0\ref\Homework_2.dll
+D:\Charles Lectures\C# Projects\Homework_2\bin\Debug\net6.0\Homework_2.pdb
+D:\Charles Lectures\C# Projects\Homework_2\obj\Debug\net6.0\Homework_2.dll
+D:\Charles Lectures\C# Projects\Homework_2\obj\Debug\net6.0\ref\Homework_2.dll
+D:\Charles Lectures\C# Projects\Homework_2\obj\Debug\net6.0\Homework_2.pdb
+D:\Charles Lectures\C# Projects\Homework_2\obj\Debug\net6.0\Homework_2.genruntimeconfig.cache
