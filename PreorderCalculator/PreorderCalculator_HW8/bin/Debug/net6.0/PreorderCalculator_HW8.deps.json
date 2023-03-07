@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PreorderCalculator_HW8/1.0.0": {
+        "runtime": {
+          "PreorderCalculator_HW8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PreorderCalculator_HW8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

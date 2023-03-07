@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreorderCalculator_HW8", "PreorderCalculator_HW8.csproj", "{1B5E9BDF-BBB8-4E48-97BF-0BBA45C302CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5E9BDF-BBB8-4E48-97BF-0BBA45C302CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5E9BDF-BBB8-4E48-97BF-0BBA45C302CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5E9BDF-BBB8-4E48-97BF-0BBA45C302CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5E9BDF-BBB8-4E48-97BF-0BBA45C302CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE67730C-26AA-4031-A865-F8A29ADE661A}
+	EndGlobalSection
+EndGlobal

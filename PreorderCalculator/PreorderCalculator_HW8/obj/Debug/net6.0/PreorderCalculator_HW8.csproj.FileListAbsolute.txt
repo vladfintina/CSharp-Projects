@@ -1,0 +1,15 @@
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\bin\Debug\net6.0\PreorderCalculator_HW8.exe
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\bin\Debug\net6.0\PreorderCalculator_HW8.deps.json
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\bin\Debug\net6.0\PreorderCalculator_HW8.runtimeconfig.json
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\bin\Debug\net6.0\PreorderCalculator_HW8.dll
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\bin\Debug\net6.0\ref\PreorderCalculator_HW8.dll
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\bin\Debug\net6.0\PreorderCalculator_HW8.pdb
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\obj\Debug\net6.0\PreorderCalculator_HW8.csproj.AssemblyReference.cache
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\obj\Debug\net6.0\PreorderCalculator_HW8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\obj\Debug\net6.0\PreorderCalculator_HW8.AssemblyInfoInputs.cache
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\obj\Debug\net6.0\PreorderCalculator_HW8.AssemblyInfo.cs
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\obj\Debug\net6.0\PreorderCalculator_HW8.csproj.CoreCompileInputs.cache
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\obj\Debug\net6.0\PreorderCalculator_HW8.dll
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\obj\Debug\net6.0\ref\PreorderCalculator_HW8.dll
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\obj\Debug\net6.0\PreorderCalculator_HW8.pdb
+D:\Charles Lectures\C# Projects\PreorderCalculator_HW8\obj\Debug\net6.0\PreorderCalculator_HW8.genruntimeconfig.cache
