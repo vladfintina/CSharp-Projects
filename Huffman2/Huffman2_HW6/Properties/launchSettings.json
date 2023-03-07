@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Huffman2_HW6": {
+      "commandName": "Project",
+      "commandLineArgs": "binary.in"
+    }
+  }
+}

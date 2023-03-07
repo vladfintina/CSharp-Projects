@@ -1,0 +1,15 @@
+D:\Charles Lectures\C# Projects\Huffman2_HW6\bin\Debug\net6.0\Huffman2_HW6.exe
+D:\Charles Lectures\C# Projects\Huffman2_HW6\bin\Debug\net6.0\Huffman2_HW6.deps.json
+D:\Charles Lectures\C# Projects\Huffman2_HW6\bin\Debug\net6.0\Huffman2_HW6.runtimeconfig.json
+D:\Charles Lectures\C# Projects\Huffman2_HW6\bin\Debug\net6.0\Huffman2_HW6.dll
+D:\Charles Lectures\C# Projects\Huffman2_HW6\bin\Debug\net6.0\ref\Huffman2_HW6.dll
+D:\Charles Lectures\C# Projects\Huffman2_HW6\bin\Debug\net6.0\Huffman2_HW6.pdb
+D:\Charles Lectures\C# Projects\Huffman2_HW6\obj\Debug\net6.0\Huffman2_HW6.csproj.AssemblyReference.cache
+D:\Charles Lectures\C# Projects\Huffman2_HW6\obj\Debug\net6.0\Huffman2_HW6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charles Lectures\C# Projects\Huffman2_HW6\obj\Debug\net6.0\Huffman2_HW6.AssemblyInfoInputs.cache
+D:\Charles Lectures\C# Projects\Huffman2_HW6\obj\Debug\net6.0\Huffman2_HW6.AssemblyInfo.cs
+D:\Charles Lectures\C# Projects\Huffman2_HW6\obj\Debug\net6.0\Huffman2_HW6.csproj.CoreCompileInputs.cache
+D:\Charles Lectures\C# Projects\Huffman2_HW6\obj\Debug\net6.0\Huffman2_HW6.dll
+D:\Charles Lectures\C# Projects\Huffman2_HW6\obj\Debug\net6.0\ref\Huffman2_HW6.dll
+D:\Charles Lectures\C# Projects\Huffman2_HW6\obj\Debug\net6.0\Huffman2_HW6.pdb
+D:\Charles Lectures\C# Projects\Huffman2_HW6\obj\Debug\net6.0\Huffman2_HW6.genruntimeconfig.cache
