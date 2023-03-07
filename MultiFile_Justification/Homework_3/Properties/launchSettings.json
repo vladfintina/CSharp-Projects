@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Homework_3": {
+      "commandName": "Project",
+      "commandLineArgs": "--highlight-spaces 01File.txt 01File.txt out.txt 17"
+    }
+  }
+}
