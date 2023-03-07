@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Bookstore_HW4": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Charles Lectures\C# Projects\Bookstore_HW4\bin\Debug\net6.0\Bookstore_HW4.exe
+D:\Charles Lectures\C# Projects\Bookstore_HW4\bin\Debug\net6.0\Bookstore_HW4.deps.json
+D:\Charles Lectures\C# Projects\Bookstore_HW4\bin\Debug\net6.0\Bookstore_HW4.runtimeconfig.json
+D:\Charles Lectures\C# Projects\Bookstore_HW4\bin\Debug\net6.0\Bookstore_HW4.dll
+D:\Charles Lectures\C# Projects\Bookstore_HW4\bin\Debug\net6.0\ref\Bookstore_HW4.dll
+D:\Charles Lectures\C# Projects\Bookstore_HW4\bin\Debug\net6.0\Bookstore_HW4.pdb
+D:\Charles Lectures\C# Projects\Bookstore_HW4\obj\Debug\net6.0\Bookstore_HW4.csproj.AssemblyReference.cache
+D:\Charles Lectures\C# Projects\Bookstore_HW4\obj\Debug\net6.0\Bookstore_HW4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charles Lectures\C# Projects\Bookstore_HW4\obj\Debug\net6.0\Bookstore_HW4.AssemblyInfoInputs.cache
+D:\Charles Lectures\C# Projects\Bookstore_HW4\obj\Debug\net6.0\Bookstore_HW4.AssemblyInfo.cs
+D:\Charles Lectures\C# Projects\Bookstore_HW4\obj\Debug\net6.0\Bookstore_HW4.csproj.CoreCompileInputs.cache
+D:\Charles Lectures\C# Projects\Bookstore_HW4\obj\Debug\net6.0\Bookstore_HW4.dll
+D:\Charles Lectures\C# Projects\Bookstore_HW4\obj\Debug\net6.0\ref\Bookstore_HW4.dll
+D:\Charles Lectures\C# Projects\Bookstore_HW4\obj\Debug\net6.0\Bookstore_HW4.pdb
+D:\Charles Lectures\C# Projects\Bookstore_HW4\obj\Debug\net6.0\Bookstore_HW4.genruntimeconfig.cache

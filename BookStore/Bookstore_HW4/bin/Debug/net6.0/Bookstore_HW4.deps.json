@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bookstore_HW4/1.0.0": {
+        "runtime": {
+          "Bookstore_HW4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bookstore_HW4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
