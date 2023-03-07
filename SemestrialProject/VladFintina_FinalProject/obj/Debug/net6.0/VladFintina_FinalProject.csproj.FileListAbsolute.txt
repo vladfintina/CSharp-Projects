@@ -1,0 +1,15 @@
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\bin\Debug\net6.0\VladFintina_FinalProject.exe
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\bin\Debug\net6.0\VladFintina_FinalProject.deps.json
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\bin\Debug\net6.0\VladFintina_FinalProject.runtimeconfig.json
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\bin\Debug\net6.0\VladFintina_FinalProject.dll
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\bin\Debug\net6.0\ref\VladFintina_FinalProject.dll
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\bin\Debug\net6.0\VladFintina_FinalProject.pdb
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\obj\Debug\net6.0\VladFintina_FinalProject.csproj.AssemblyReference.cache
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\obj\Debug\net6.0\VladFintina_FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\obj\Debug\net6.0\VladFintina_FinalProject.AssemblyInfoInputs.cache
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\obj\Debug\net6.0\VladFintina_FinalProject.AssemblyInfo.cs
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\obj\Debug\net6.0\VladFintina_FinalProject.csproj.CoreCompileInputs.cache
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\obj\Debug\net6.0\VladFintina_FinalProject.dll
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\obj\Debug\net6.0\ref\VladFintina_FinalProject.dll
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\obj\Debug\net6.0\VladFintina_FinalProject.pdb
+D:\Charles Lectures\C# Projects\VladFintina_FinalProject\obj\Debug\net6.0\VladFintina_FinalProject.genruntimeconfig.cache

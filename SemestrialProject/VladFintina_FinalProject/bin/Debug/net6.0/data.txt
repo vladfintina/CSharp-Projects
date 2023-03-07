@@ -1,0 +1,8 @@
+Lala Land,Comedy,Ryan Gossling,2017
+Jumanji,Adventure,The Rock,2020
+The Godfather,Drama,Corleone,1972
+Good Will Hunting,Romance,Matt Damon,1989
+La Dolce Vita,Comedy,Federico Fellini,1960
+There Will Be Blood,Action,Paul Thomas,2007
+Wolf Of WallStreet,Comedy,DiCaprio,2011
+Avatar,Science Fiction,Cameron,2022
